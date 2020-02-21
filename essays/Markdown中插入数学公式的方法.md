@@ -1,3 +1,4 @@
+转载自[github](https://github.com/xiahouzuoxin)
 <!---title:Markdown中插入数学公式的方法-->
 <!---keywords:工具-->
 <!---date:old-->
